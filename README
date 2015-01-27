@@ -1,0 +1,11 @@
+Start server: 
+1. Install node.js & MongoDB 
+2. Run 'mongod' to start the db
+3. Go to Server/ in our repo
+4. Run 'npm install' to install dependencies 
+5. Run 'node server.js' to start the server 
+
+Play game: 
+1. Open 2 browser windows 
+2. Go to http://localhost in both
+3. Play 
